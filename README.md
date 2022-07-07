@@ -37,4 +37,4 @@
 
 ### <a href="https://github.com/ryayoung/transshipment-optimization/blob/main/solution_without_tsopt.ipynb"><img src="https://github.com/ryayoung/icons/blob/main/svg/code.slash.blue.svg" height="20"/> &nbsp; Without tsopt</a>
 
-### <a href="https://github.com/ryayoung/transshipment-optimization/blob/main/solution_with_tsopt.ipynb"><img src="https://github.com/ryayoung/icons/blob/main/svg/code.slash.blue.svg" height="20"/> &nbsp; Without tsopt</a>
+### <a href="https://github.com/ryayoung/transshipment-optimization/blob/main/solution_with_tsopt.ipynb"><img src="https://github.com/ryayoung/icons/blob/main/svg/code.slash.blue.svg" height="20"/> &nbsp; With tsopt</a>
