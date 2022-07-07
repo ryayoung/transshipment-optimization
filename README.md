@@ -1,7 +1,5 @@
 # Transshipment Optimization
 
-*(Python and [Pyomo](https://pyomo.readthedocs.io/en/stable/))*
-
 > A multi-stage transshipment cost minimization problem, in which we send product from plants to distributors, and then from those distributors to warehouses, for the lowest possible cost, while satisfying demand, capacity, and supply constraints.
 
 #### I created [this Python library, `tsopt`](https://github.com/ryayoung/tsopt) to solve this exact type of problem. I'll solve this problem first without it, and then again using the tool I created.
@@ -34,3 +32,9 @@
 4. Visualize the decision variables with bar charts.
 5. Visualize how overall total cost changes as a function of cost at a single *edge* in the network.
 6. Visualize how overall total cost changes as a function of demand (minimum units required) at a warehouse node.
+
+## Code
+
+### <a href="https://github.com/ryayoung/transshipment-optimization/blob/main/solution_without_tsopt.ipynb"><img src="https://github.com/ryayoung/icons/blob/main/svg/code.slash.blue.svg" height="20"/> &nbsp; Without tsopt</a>
+
+### <a href="https://github.com/ryayoung/transshipment-optimization/blob/main/solution_with_tsopt.ipynb"><img src="https://github.com/ryayoung/icons/blob/main/svg/code.slash.blue.svg" height="20"/> &nbsp; Without tsopt</a>
