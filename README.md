@@ -33,8 +33,10 @@
 5. Visualize how overall total cost changes as a function of cost at a single *edge* in the network.
 6. Visualize how overall total cost changes as a function of demand (minimum units required) at a warehouse node.
 
-## Code
+<br>
 
-### <a href="https://github.com/ryayoung/transshipment-optimization/blob/main/solution_without_tsopt.ipynb"><img src="https://github.com/ryayoung/icons/blob/main/svg/code.slash.blue.svg" height="20"/> &nbsp; Without tsopt</a>
+# <img src="https://github.com/ryayoung/icons/blob/main/svg/code.slash.svg" height="23"/> &nbsp; Solutions
 
-### <a href="https://github.com/ryayoung/transshipment-optimization/blob/main/solution_with_tsopt.ipynb"><img src="https://github.com/ryayoung/icons/blob/main/svg/code.slash.blue.svg" height="20"/> &nbsp; With tsopt</a>
+### <a href="https://github.com/ryayoung/transshipment-optimization/blob/main/solution_without_tsopt.ipynb"> Version 1 &nbsp; <img src="https://github.com/ryayoung/icons/blob/main/svg/chevron.right.blue.svg" height="20"/> </a>
+
+### <a href="https://github.com/ryayoung/transshipment-optimization/blob/main/solution_with_tsopt.ipynb"> Version 2 &nbsp; <img src="https://github.com/ryayoung/icons/blob/main/svg/chevron.right.blue.svg" height="20"/> </a>
